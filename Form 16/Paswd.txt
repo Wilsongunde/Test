@@ -1,0 +1,1 @@
+First four letters of first name + DOB
