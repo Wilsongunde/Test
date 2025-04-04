@@ -1,0 +1,49 @@
+Hey Hi Very Good Morning
+
+My self Wilson having 5+ years of experience in the QA Testing.
+
+My current roles & responsibility majorly into the taking the owner ship of NGC project 
+
+I will be the responsible for End to End application Testing
+
+Requirement gathering, Test case writing, Test reporting , Bug reporting , will communicate with dev team for aligning with requirements
+
+We will follow agile methodology in our project
+
+We have 2 weeks of sprint
+
+Will regularly participate in Sprint retrospective meetings - What went well , What won't well, What to Improve  (This will discuss according that points having votes)
+Will regularly participate in Sprint Planning meetings - During this sprint tasks will be allocate based on capacity for this sprint
+Weekly twice have product backlog refinement meetings - Requirement Clarification , Grooming user story will discuss
+
+
+In terms of Automation 
+
+Will do API Testing , Involved in Performance Test, Automation activity using selenium
+
+Also will do DB validation Testing (PostgreSQL)
+
+* API Testing - Swagger , Postman used to check the request and response
+
+* Performance Test - Apache Jmeter used to test the app performance
+
+* DB Testing - Data validating we used correctly inserted into the respective tables
+
+* Azure devops Bug tracking tool - For all bugs we maintained in the azure devops board
+
+I have used some frameworks in one of the project (Gobiom) Like Test NG and Data driven Test 
+
+Manual test cases were converted to test scripts using selenium web driver as per schedule we run the scripts
+
+We are writing the test scripts using Test NG
+
+Also having some good experience in Cucumber and page object model pattern
+
+
+Also having some good experience in maven (For build generation), Jenkins (For Schedule run the scripts)
+
+(Optional)Hands on experience On Mobile app testing using (Appium) we did automation
+
+
+
+
